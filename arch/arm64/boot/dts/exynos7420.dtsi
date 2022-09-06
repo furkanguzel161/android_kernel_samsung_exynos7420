@@ -2970,27 +2970,27 @@
 
 		trigger_level_table {
 			trigger_level_0 {
-				temp = <75>;
+				temp = <105>;
 				enable = <1>;
 			};
 			trigger_level_1 {
-				temp = <80>;
+				temp = <105>;
 				enable = <1>;
 			};
 			trigger_level_2 {
-				temp = <85>;
+				temp = <105>;
 				enable = <1>;
 			};
 			trigger_level_3 {
-				temp = <90>;
+				temp = <105>;
 				enable = <1>;
 			};
 			trigger_level_4 {
-				temp = <95>;
+				temp = <105>;
 				enable = <1>;
 			};
 			trigger_level_5 {
-				temp = <100>;
+				temp = <105>;
 				enable = <1>;
 			};
 			trigger_level_6 {
